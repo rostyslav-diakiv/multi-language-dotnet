@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4GAVfmPte/8HXcrPr6GJI8UY3sPQr9mfxBwVZkNYNhv9XgNxv9hIUzIrR9huF28wtg7GwEAwLV4gj77vY2/qJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rostyslav_Diakiv\\source\\repos\\FSharpClassLibrary\\VisualBasicConsoleApp\\VisualBasicConsoleApp.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rostyslav_Diakiv\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

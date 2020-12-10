@@ -1,0 +1,7 @@
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\bin\Debug\netstandard2.0\FSharpClassLibrary.deps.json
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\bin\Debug\netstandard2.0\FSharpClassLibrary.dll
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\bin\Debug\netstandard2.0\FSharpClassLibrary.pdb
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\obj\Debug\netstandard2.0\FSharpClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\obj\Debug\netstandard2.0\FSharpClassLibrary.AssemblyInfo.fs
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\obj\Debug\netstandard2.0\FSharpClassLibrary.dll
+C:\Users\Rostyslav_Diakiv\source\repos\FSharpClassLibrary\FSharpClassLibrary\obj\Debug\netstandard2.0\FSharpClassLibrary.pdb

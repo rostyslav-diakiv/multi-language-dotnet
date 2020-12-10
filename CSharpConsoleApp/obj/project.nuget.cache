@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfHZNbIMgisqp/LnfQ3T4hEq9ecVqYC5+4OIVNhezhgL1lwxaJJ3EzY8f/p1aqzNl0FwCdKLHYpgmgjYvEAvKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rostyslav_Diakiv\\source\\repos\\FSharpClassLibrary\\CSharpConsoleApp\\CSharpConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rostyslav_Diakiv\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

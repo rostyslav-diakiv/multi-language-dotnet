@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CSharpConsoleApp": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "nativeDebugging": true
+    }
+  }
+}

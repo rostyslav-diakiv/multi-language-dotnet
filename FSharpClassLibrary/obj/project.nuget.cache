@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5Gih39huL19bted1LgUKJWQSPsoLcJ0A2teNPiEuNbjc6vGfV3Lq1qEUTyZanqb/1sVg91c4wNgK30tAV1jzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rostyslav_Diakiv\\source\\repos\\FSharpClassLibrary\\FSharpClassLibrary\\FSharpClassLibrary.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rostyslav_Diakiv\\.nuget\\packages\\fsharp.core\\4.7.0\\fsharp.core.4.7.0.nupkg.sha512",
+    "C:\\Users\\Rostyslav_Diakiv\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rostyslav_Diakiv\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
